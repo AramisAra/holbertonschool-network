@@ -1,2 +1,0 @@
-# holbertonschoool-network
- 
